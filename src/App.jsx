@@ -1,4 +1,4 @@
-import Navbar from "./components/navbar";
+import Navbar from "./components/Navbar";
 import Contact from "./components/Contact";
 import EducationContent from "./components/EducationContent";
 import HomeContent from "./components/HomeContent";
