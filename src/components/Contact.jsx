@@ -53,7 +53,7 @@ const Contact = () => {
             <FaMapMarkerAlt className="text-4xl mb-4" />
             <h2 className="text-xl font-semibold mb-2">Address</h2>
             <p className="text-center">
-              Toowoomba, Queensland, Australia
+               Queensland, Australia
             </p>
           </div>
 
