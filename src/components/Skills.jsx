@@ -1,6 +1,6 @@
 import { IoLogoJavascript } from "react-icons/io5";
 import { FaLaptopCode, FaReact, FaNodeJs, FaGitAlt } from "react-icons/fa";
-import { SiExpress, SiMongodb, SiTailwindcss, SiCplusplus } from "react-icons/si";
+import { SiExpress, SiMongodb, SiTailwindcss, SiCplusplus, SiRedis } from "react-icons/si";
 import { MdDataArray } from "react-icons/md";
 import { TbBinaryTree } from "react-icons/tb";
 
@@ -61,6 +61,11 @@ const Skills = () => {
           <div className="bg-white shadow-md rounded-2xl py-6 px-4 flex justify-center gap-2 items-center font-semibold text-gray-700 hover:bg-black hover:text-white transition duration-300 cursor-pointer text-2xl">
             <span>Tailwind</span>
             <span><SiTailwindcss /></span>
+          </div>
+
+           <div className="bg-white shadow-md rounded-2xl py-6 px-4 flex justify-center gap-2 items-center font-semibold text-gray-700 hover:bg-black hover:text-white transition duration-300 cursor-pointer text-2xl">
+            <span>Redis</span>
+            <span><SiRedis /></span>
           </div>
 
 
